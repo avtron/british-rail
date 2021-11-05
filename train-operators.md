@@ -52,6 +52,10 @@ Crossrail (TfL Rail, MTR Corporation)
 
 TransPennine Express (FirstGroup)
 
+Wales & Borders (Transport for Wales Rail, Transport for Wales)
+
+West Midlands (West Midlands Trains, Abellio/JR East/Mitsui)
+
 ## Northern Ireland
 
 NI Railways (Translink)
